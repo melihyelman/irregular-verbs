@@ -5,7 +5,7 @@ import data from "../data"
 function VerbList({ word }) {
     const { verb: tempVerb } = useParams();
 
-    const verbs = data.filter(verb => verb.base.includes(word))
+    const verbs = data.filter(verb => verb.base.toLowerCase().includes(word.toLowerCase()))
     return (
         <div className="verbs__nav-list">
             {verbs.map(verb => (

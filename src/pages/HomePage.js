@@ -41,9 +41,7 @@ function HomePage() {
                             spare time.</p>
                         <h2>Alternative way to learn irregular verbs</h2>
                         <p>You can use this website as a reference. It has a list of irregular verbs, cards with their forms,
-                            meanings and examples. Also, we have made a very useful application for Android and iOS mobile devices
-                            that can replace any written cards or lists. All irregular verbs are in your pocket now. Download and
-                            use it for free!</p>
+                            meanings and examples. </p>
                         <p></p>
                     </article>
                 </div>
