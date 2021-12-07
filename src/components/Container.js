@@ -20,7 +20,7 @@ function Container({ children }) {
                     {children}
                 </div>
             </div>
-            <footer className="app__footer"><div className="app__footer-inner"><div className="app__copyright">© myelman - 2021</div></div></footer>
+            <footer className="app__footer"><div className="app__footer-inner"><div className="app__copyright"><a href="https://github.com/melihyelman">© myelman - 2021</a></div></div></footer>
         </>
     )
 }
