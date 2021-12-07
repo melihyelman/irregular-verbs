@@ -1,697 +1,969 @@
-[
+/* eslint-disable import/no-anonymous-default-export */
+export default [
     {
-        "Base": "arise",
-        "Past-simple": "arose",
-        "Past-Participle": "arisen"
+        "base": "arise",
+        "pastSimple": "arose",
+        "pastParticiple": "arisen",
+        "meaning": "get or stand up",
+        "example": "Most conflicts arise from ignorance or uncertainty."
     },
     {
-        "Base": "awake",
-        "Past-simple": "awoke",
-        "Past-Participle": "awoken"
+        "base": "awake",
+        "pastSimple": "awoke",
+        "pastParticiple": "awoken",
+        "meaning": "stop sleeping",
+        "example": "I've been lying awake nights wondering what it all means."
     },
     {
-        "Base": "be",
-        "Past-simple": "was/were",
-        "Past-Participle": "been"
+        "base": "be",
+        "pastSimple": "was/were",
+        "pastParticiple": "been",
+        "meaning": "exist; occur; take place",
+        "example": "I want to be a teacher"
     },
     {
-        "Base": "bear",
-        "Past-simple": "bore",
-        "Past-Participle": "born(e)"
+        "base": "bear",
+        "pastSimple": "bore",
+        "pastParticiple": "borne",
+        "meaning": "to tolerate something",
+        "example": "I didn't want to bear the responsibility for this."
     },
     {
-        "Base": "beat",
-        "Past-simple": "beat",
-        "Past-Participle": "beaten"
+        "base": "beat",
+        "pastSimple": "beat",
+        "pastParticiple": "beaten",
+        "meaning": "strike repeatedly and violently; succeed in getting somewhere ahead of (someone)",
+        "example": "Although communities try to beat their previous score, it is also an open competition against other communities."
     },
     {
-        "Base": "become",
-        "Past-simple": "became",
-        "Past-Participle": "become"
+        "base": "become",
+        "pastSimple": "became",
+        "pastParticiple": "become",
+        "meaning": "begin to be",
+        "example": "Strong government has now become more necessary",
     },
     {
-        "Base": "begin",
-        "Past-simple": "began",
-        "Past-Participle": "begun"
+        "base": "begin",
+        "pastSimple": "began",
+        "pastParticiple": "begun",
+        "meaning": "start",
+        "example": "Before you begin any activity, drink at least one glass of water 30 minutes prior."
     },
     {
-        "Base": "bend",
-        "Past-simple": "bent",
-        "Past-Participle": "bent"
+        "base": "bend",
+        "pastSimple": "bent",
+        "pastParticiple": "bent",
+        "meaning": "shape or force (something straight) into a curve or angle",
+        "example": "The rising wind bent the long grass."
     },
     {
-        "Base": "bet",
-        "Past-simple": "bet",
-        "Past-Participle": "bet"
+        "base": "bet",
+        "pastSimple": "bet",
+        "pastParticiple": "bet",
+        "meaning": "risk something against someone else's on the basis of the outcome of a future event, such as the result of a race or game.",
+        "example": "I'll bet you $15 you won't find a single scratch"
     },
     {
-        "Base": "bind",
-        "Past-simple": "bound",
-        "Past-Participle": "bound"
+        "base": "bind",
+        "pastSimple": "bound",
+        "pastParticiple": "bound",
+        "meaning": "tie or fasten (something) tightly.",
+        "example": "Clay is made up chiefly of tiny soil particles that bind together tightly."
     },
     {
-        "Base": "bite",
-        "Past-simple": "bit",
-        "Past-Participle": "bitten"
+        "base": "bite",
+        "pastSimple": "bit",
+        "pastParticiple": "bitten",
+        "meaning": "use the teeth to cut into something in order to eat it.",
+        "example": "What will you do if a spider bites you?"
     },
     {
-        "Base": "bleed",
-        "Past-simple": "bled",
-        "Past-Participle": "bled"
+        "base": "bleed",
+        "pastSimple": "bled",
+        "pastParticiple": "bled",
+        "meaning": "lose blood from the body as a result of injury",
+        "example": "The cut was bleeding steadily.",
     },
     {
-        "Base": "blow",
-        "Past-simple": "blew",
-        "Past-Participle": "blown"
+        "base": "blow",
+        "pastSimple": "blew",
+        "pastParticiple": "blown",
+        "meaning": "move creating an air current",
+        "example": "A cold wind began to blow."
     },
     {
-        "Base": "break",
-        "Past-simple": "broke",
-        "Past-Participle": "broken"
+        "base": "break",
+        "pastSimple": "broke",
+        "pastParticiple": "broken",
+        "meaning": "separate into pieces; interrupt; fail to observe (a law, regulation, or agreement)",
+        "example": "The law was broken by the government."
     },
     {
-        "Base": "breed",
-        "Past-simple": "bred",
-        "Past-Participle": "bred"
+        "base": "breed",
+        "pastSimple": "bred",
+        "pastParticiple": "bred",
+        "meaning": "cause (an animal) to produce offspring, typically in a controlled and organized way.",
+        "example": "The animals were bred to be efficient hunters."
     },
     {
-        "Base": "bring",
-        "Past-simple": "brought",
-        "Past-Participle": "brought"
+        "base": "bring",
+        "pastSimple": "brought",
+        "pastParticiple": "brought",
+        "meaning": "come to a place with (someone or something)",
+        "example": "I brought my son to school."
     },
     {
-        "Base": "broadcast",
-        "Past-simple": "broadcast",
-        "Past-Participle": "broadcast"
+        "base": "broadcast",
+        "pastSimple": "broadcast",
+        "pastParticiple": "broadcast",
+        "meaning": "transmit (a program or some information) by radio or television",
+        "example": "The news was broadcast on the television."
     },
     {
-        "Base": "build",
-        "Past-simple": "built",
-        "Past-Participle": "built"
+        "base": "build",
+        "pastSimple": "built",
+        "pastParticiple": "built",
+        "meaning": "construct (something) by putting parts or material together",
+        "example": "The building was built in the old style."
     },
     {
-        "Base": "burn",
-        "Past-simple": "burnt/burned",
-        "Past-Participle": "burnt/burned"
+        "base": "burn",
+        "pastSimple": "burnt/burned",
+        "pastParticiple": "burnt/burned",
+        "meaning": "flame or glow while consuming a material such as coal or wood",
+        "example": "The fire burned the house."
     },
     {
-        "Base": "burst",
-        "Past-simple": "burst",
-        "Past-Participle": "burst"
+        "base": "burst",
+        "pastSimple": "burst",
+        "pastParticiple": "burst",
+        "meaning": "explode, break suddenly and violently apart, spilling the contents",
+        "example": "The water burst into a million pieces."
     },
     {
-        "Base": "buy",
-        "Past-simple": "bought",
-        "Past-Participle": "bought"
+        "base": "buy",
+        "pastSimple": "bought",
+        "pastParticiple": "bought",
+        "meaning": "obtain in exchange for payment",
+        "example": "Money can't buy happiness."
     },
     {
-        "Base": "can",
-        "Past-simple": "could",
-        "Past-Participle": "been able"
+        "base": "can",
+        "pastSimple": "could",
+        "pastParticiple": "been able",
+        "meaning": "be able to",
+        "example": "I can't believe I can do this."
     },
     {
-        "Base": "catch",
-        "Past-simple": "caught",
-        "Past-Participle": "caught"
+        "base": "catch",
+        "pastSimple": "caught",
+        "pastParticiple": "caught",
+        "meaning": " intercept and hold (something)",
+        "example": "The ball was caught in the net."
     },
     {
-        "Base": "choose",
-        "Past-simple": "chose",
-        "Past-Participle": "chosen"
+        "base": "choose",
+        "pastSimple": "chose",
+        "pastParticiple": "chosen",
+        "meaning": "pick out or select (someone or something) of two or more alternatives",
+        "example": "I chose the best option."
     },
     {
-        "Base": "cling",
-        "Past-simple": "clung",
-        "Past-Participle": "clung"
+        "base": "cling",
+        "pastSimple": "clung",
+        "pastParticiple": "clung",
+        "meaning": "to stick, hold on tightly to",
+        "example": "The cat clung to the wall."
     },
     {
-        "Base": "come",
-        "Past-simple": "came",
-        "Past-Participle": "come"
+        "base": "come",
+        "pastSimple": "came",
+        "pastParticiple": "come",
+        "meaning": "move or travel toward or into a place",
+        "example": "The cat came running to the window."
     },
     {
-        "Base": "cost",
-        "Past-simple": "cost",
-        "Past-Participle": "cost"
+        "base": "cost",
+        "pastSimple": "cost",
+        "pastParticiple": "cost",
+        "meaning": "cost money or money to (someone or something)",
+        "example": "The price was too high."
     },
     {
-        "Base": "creep",
-        "Past-simple": "crept",
-        "Past-Participle": "crept"
+        "base": "creep",
+        "pastSimple": "crept",
+        "pastParticiple": "crept",
+        "meaning": "move slowly and quietly",
+        "example": "The spider crept under the bed."
     },
     {
-        "Base": "cut",
-        "Past-simple": "cut",
-        "Past-Participle": "cut"
+        "base": "cut",
+        "pastSimple": "cut",
+        "pastParticiple": "cut",
+        "meaning": "separate into pieces",
+        "example": "The cut was bleeding steadily."
     },
     {
-        "Base": "deal",
-        "Past-simple": "dealt",
-        "Past-Participle": "dealt"
+        "base": "deal",
+        "pastSimple": "dealt",
+        "pastParticiple": "dealt",
+        "meaning": "give (someone or something) a hand or a share in a transaction",
+        "example": "The dealer dealt the cards."
     },
     {
-        "Base": "dig",
-        "Past-simple": "dug",
-        "Past-Participle": "dug"
+        "base": "dig",
+        "pastSimple": "dug",
+        "pastParticiple": "dug",
+        "meaning": "move or remove by digging",
+        "example": "The hole was dug in the ground."
     },
     {
-        "Base": "do",
-        "Past-simple": "did",
-        "Past-Participle": "done"
+        "base": "do",
+        "pastSimple": "did",
+        "pastParticiple": "done",
+        "meaning": "act or perform",
+        "example": "I can't do that."
     },
     {
-        "Base": "draw",
-        "Past-simple": "drew",
-        "Past-Participle": "drawn"
+        "base": "draw",
+        "pastSimple": "drew",
+        "pastParticiple": "drawn",
+        "meaning": "obtain (something) by pulling or pulling out",
+        "example": "The painter drew the picture."
     },
     {
-        "Base": "dream",
-        "Past-simple": "dreamt/dreamed",
-        "Past-Participle": "dreamt/dreamed"
+        "base": "dream",
+        "pastSimple": "dreamt/dreamed",
+        "pastParticiple": "dreamt/dreamed",
+        "meaning": "contemplate the possibility of doing something or that something might be the case",
+        "example": "The dream was that he would become a millionaire."
     },
     {
-        "Base": "drink",
-        "Past-simple": "drank",
-        "Past-Participle": "drunk"
+        "base": "drink",
+        "pastSimple": "drank",
+        "pastParticiple": "drunk",
+        "meaning": "take (a liquid) from the mouth",
+        "example": "Would you like to drink a cup of coffee?",
     },
     {
-        "Base": "drive",
-        "Past-simple": "drove",
-        "Past-Participle": "driven"
+        "base": "drive",
+        "pastSimple": "drove",
+        "pastParticiple": "driven",
+        "meaning": "move (a vehicle) by the power of the engine",
+        "example": "The car drove down the road."
     },
     {
-        "Base": "eat",
-        "Past-simple": "ate",
-        "Past-Participle": "eaten"
+        "base": "eat",
+        "pastSimple": "ate",
+        "pastParticiple": "eaten",
+        "meaning": "consume food",
+        "example": "The cat ate the mouse."
     },
     {
-        "Base": "fall",
-        "Past-simple": "fell",
-        "Past-Participle": "fallen"
+        "base": "fall",
+        "pastSimple": "fell",
+        "pastParticiple": "fallen",
+        "meaning": "move downward",
+        "example": "The dog fell asleep."
     },
     {
-        "Base": "feed",
-        "Past-simple": "fed",
-        "Past-Participle": "fed"
+        "base": "feed",
+        "pastSimple": "fed",
+        "pastParticiple": "fed",
+        "meaning": "give food to (a person or animal)",
+        "example": "The dog was fed the cat."
     },
     {
-        "Base": "feel",
-        "Past-simple": "felt",
-        "Past-Participle": "felt"
+        "base": "feel",
+        "pastSimple": "felt",
+        "pastParticiple": "felt",
+        "meaning": "have a feeling about",
+        "example": "The cat felt the pain."
     },
     {
-        "Base": "fight",
-        "Past-simple": "fought",
-        "Past-Participle": "fought"
+        "base": "fight",
+        "pastSimple": "fought",
+        "pastParticiple": "fought",
+        "meaning": "struggle or contend with",
+        "example": "Would you like to drink a cup of coffee?"
     },
     {
-        "Base": "find",
-        "Past-simple": "found",
-        "Past-Participle": "found"
+        "base": "find",
+        "pastSimple": "found",
+        "pastParticiple": "found",
+        "meaning": "discover",
+        "example": "The cat found the mouse."
     },
     {
-        "Base": "fly",
-        "Past-simple": "flew",
-        "Past-Participle": "flown"
+        "base": "fly",
+        "pastSimple": "flew",
+        "pastParticiple": "flown",
+        "meaning": "Pilots trained to fly combat missions.",
+        "example": "The bird flew away."
     },
     {
-        "Base": "forbid",
-        "Past-simple": "forbade",
-        "Past-Participle": "forbidden"
+        "base": "forbid",
+        "pastSimple": "forbade",
+        "pastParticiple": "forbidden",
+        "meaning": "prohibit, refuse to allow (something)",
+        "example": "The teacher forbade the students to play outside."
     },
     {
-        "Base": "forget",
-        "Past-simple": "forgot",
-        "Past-Participle": "forgotten"
+        "base": "forget",
+        "pastSimple": "forgot",
+        "pastParticiple": "forgotten",
+        "meaning": "fail to remember",
+        "example": "The teacher forgot to bring the book."
     },
     {
-        "Base": "forgive",
-        "Past-simple": "forgave",
-        "Past-Participle": "forgiven"
+        "base": "forgive",
+        "pastSimple": "forgave",
+        "pastParticiple": "forgiven",
+        "meaning": "excuse (someone or something) for (an offense)",
+        "example": "The teacher forgave the student for the late fee."
     },
     {
-        "Base": "freeze",
-        "Past-simple": "froze",
-        "Past-Participle": "frozen"
+        "base": "freeze",
+        "pastSimple": "froze",
+        "pastParticiple": "frozen",
+        "meaning": "be turned into ice or another solid as a result of extreme cold",
+        "example": "The ice was frozen."
     },
     {
-        "Base": "get",
-        "Past-simple": "got",
-        "Past-Participle": "got"
+        "base": "get",
+        "pastSimple": "got",
+        "pastParticiple": "got",
+        "meaning": "receive, come to have or hold (something)",
+        "example": "The cat got the mouse."
     },
     {
-        "Base": "give",
-        "Past-simple": "gave",
-        "Past-Participle": "given"
+        "base": "give",
+        "pastSimple": "gave",
+        "pastParticiple": "given",
+        "meaning": "freely transfer the possession of (something) to (someone)",
+        "example": "The teacher gave the book to the student."
     },
     {
-        "Base": "go",
-        "Past-simple": "went",
-        "Past-Participle": "gone"
+        "base": "go",
+        "pastSimple": "went",
+        "pastParticiple": "gone",
+        "meaning": "move from place to place",
+        "example": "The cat went to the window."
     },
     {
-        "Base": "grind",
-        "Past-simple": "ground",
-        "Past-Participle": "ground"
+        "base": "grind",
+        "pastSimple": "ground",
+        "pastParticiple": "ground",
+        "meaning": "reduce (something) to small particles or powder by crushing it",
+        "example": "The grind was very hard."
     },
     {
-        "Base": "grow",
-        "Past-simple": "grew",
-        "Past-Participle": "grown"
+        "base": "grow",
+        "pastSimple": "grew",
+        "pastParticiple": "grown",
+        "meaning": "develop or increase in size",
+        "example": "The plant grew."
     },
     {
-        "Base": "hang",
-        "Past-simple": "hung",
-        "Past-Participle": "hung"
+        "base": "hang",
+        "pastSimple": "hung",
+        "pastParticiple": "hung",
+        "meaning": "remain static in the air",
+        "example": "The cat hung on the tree."
     },
     {
-        "Base": "have",
-        "Past-simple": "had",
-        "Past-Participle": "had"
+        "base": "have",
+        "pastSimple": "had",
+        "pastParticiple": "had",
+        "meaning": "possess, own, or hold",
+        "example": "The cat has a tail."
     },
     {
-        "Base": "hear",
-        "Past-simple": "heard",
-        "Past-Participle": "heard"
+        "base": "hear",
+        "pastSimple": "heard",
+        "pastParticiple": "heard",
+        "meaning": "perceive with the ear the sound made by (someone or something)",
+        "example": "The cat heard the noise."
     },
     {
-        "Base": "hide",
-        "Past-simple": "hid",
-        "Past-Participle": "hidden"
+        "base": "hide",
+        "pastSimple": "hid",
+        "pastParticiple": "hidden",
+        "meaning": "put or keep out of sight",
+        "example": "He hid the money in the house."
     },
     {
-        "Base": "hit",
-        "Past-simple": "hit",
-        "Past-Participle": "hit"
+        "base": "hit",
+        "pastSimple": "hit",
+        "pastParticiple": "hit",
+        "meaning": "cause harm or distress to",
+        "example": "The woman hit the mugger with her umbrella."
     },
     {
-        "Base": "hold",
-        "Past-simple": "held",
-        "Past-Participle": "held"
+        "base": "hold",
+        "pastSimple": "held",
+        "pastParticiple": "held",
+        "meaning": "grasp, carry, or support with one's arms or hands",
+        "example": "She was holding a brown leather suitcase."
     },
     {
-        "Base": "hurt",
-        "Past-simple": "hurt",
-        "Past-Participle": "hurt"
+        "base": "hurt",
+        "pastSimple": "hurt",
+        "pastParticiple": "hurt",
+        "meaning": "cause physical pain or injury to",
+        "example": "She didn't want to hurt his feelings."
     },
     {
-        "Base": "keep",
-        "Past-simple": "kept",
-        "Past-Participle": "kept"
+        "base": "keep",
+        "pastSimple": "kept",
+        "pastParticiple": "kept",
+        "meaning": "continue in a specified condition; have or retain possession of",
+        "example": "Don’t stop, keep moving!"
     },
     {
-        "Base": "kneel",
-        "Past-simple": "knelt",
-        "Past-Participle": "knelt"
+        "base": "kneel",
+        "pastSimple": "knelt",
+        "pastParticiple": "knelt",
+        "meaning": " be in or assume a position in which the body is supported by a knee or the knees, as when praying or showing submission",
+        "example": "They knelt down and prayed."
     },
     {
-        "Base": "know",
-        "Past-simple": "knew",
-        "Past-Participle": "known"
+        "base": "know",
+        "pastSimple": "knew",
+        "pastParticiple": "known",
+        "meaning": "be aware of",
+        "example": "Do you know that song?"
     },
     {
-        "Base": "lay",
-        "Past-simple": "laid",
-        "Past-Participle": "laid"
+        "base": "lay",
+        "pastSimple": "laid",
+        "pastParticiple": "laid",
+        "meaning": "put down, especially gently or carefully",
+        "example": "She laid the baby in his crib."
     },
     {
-        "Base": "lead",
-        "Past-simple": "led",
-        "Past-Participle": "led"
+        "base": "lead",
+        "pastSimple": "led",
+        "pastParticiple": "led",
+        "meaning": "cause (a person or animal) to go with one",
+        "example": "The captain is leading the team to the win."
     },
     {
-        "Base": "lean",
-        "Past-simple": "leant/leaned",
-        "Past-Participle": "leant/leaned"
+        "base": "lean",
+        "pastSimple": "leant/leaned",
+        "pastParticiple": "leant/leaned",
+        "meaning": "be in or move into a sloping position",
+        "example": "He leaned back in his chair."
     },
     {
-        "Base": "learn",
-        "Past-simple": "learnt/learned",
-        "Past-Participle": "learnt/learned"
+        "base": "learn",
+        "pastSimple": "learnt/learned",
+        "pastParticiple": "learnt/learned",
+        "meaning": "gain or acquire knowledge of or skill in (something)",
+        "example": "I go to school every day, and I learn many new things."
     },
     {
-        "Base": "leave",
-        "Past-simple": "left",
-        "Past-Participle": "left"
+        "base": "leave",
+        "pastSimple": "left",
+        "pastParticiple": "left",
+        "meaning": "go away from",
+        "example": "Hurry up, the train is leaving in a few minutes."
     },
     {
-        "Base": "lent",
-        "Past-simple": "lent",
-        "Past-Participle": "lent"
+        "base": "lent",
+        "pastSimple": "lent",
+        "pastParticiple": "lent",
+        "meaning": "grant to (someone) the use of (something) on the understanding that it shall be returned",
+        "example": "Robert asked me to lend him my car."
     },
     {
-        "Base": "lie (in bed)",
-        "Past-simple": "lay",
-        "Past-Participle": "lain"
+        "base": "lie (in bed)",
+        "pastSimple": "lay",
+        "pastParticiple": "lain",
+        "meaning": "be in or assume a horizontal or resting position on a supporting surface",
+        "example": "She were lying in the grass and looking up at the sky."
     },
     {
-        "Base": "lie (to not tell the truth)",
-        "Past-simple": "lied",
-        "Past-Participle": "lied"
+        "base": "light",
+        "pastSimple": "lit/lighted",
+        "pastParticiple": "lit/lighted",
+        "meaning": "illuminate, provide with light or lighting",
+        "example": "Lightnings lit up the sky."
     },
     {
-        "Base": "light",
-        "Past-simple": "lit/lighted",
-        "Past-Participle": "lit/lighted"
+        "base": "lose",
+        "pastSimple": "lost",
+        "pastParticiple": "lost",
+        "meaning": "be deprived of or cease to have or retain (something); become unable to find (something or someone)",
+        "example": "I've lost the car keys."
     },
     {
-        "Base": "lose",
-        "Past-simple": "lost",
-        "Past-Participle": "lost"
+        "base": "make",
+        "pastSimple": "made",
+        "pastParticiple": "made",
+        "meaning": "create, construct, form (something) by putting parts together",
+        "example": "You could make some nice curtains with that material."
     },
     {
-        "Base": "make",
-        "Past-simple": "made",
-        "Past-Participle": "made"
+        "base": "may",
+        "pastSimple": "might",
+        "pastParticiple": "…",
+        "meaning": "expressing possibility",
+        "example": "May I come in?"
     },
     {
-        "Base": "may",
-        "Past-simple": "might",
-        "Past-Participle": "…"
+        "base": "mean",
+        "pastSimple": "meant",
+        "pastParticiple": "meant",
+        "meaning": "intend to convey, indicate, or refer to (a particular thing or notion)",
+        "example": "The meaning of the word is to be understood."
     },
     {
-        "Base": "mean",
-        "Past-simple": "meant",
-        "Past-Participle": "meant"
+        "base": "meet",
+        "pastSimple": "met",
+        "pastParticiple": "met",
+        "meaning": "encounter, come across",
+        "example": "The two people met at the station."
     },
     {
-        "Base": "meet",
-        "Past-simple": "met",
-        "Past-Participle": "met"
+        "base": "mow",
+        "pastSimple": "mowed",
+        "pastParticiple": "mown/mowed",
+        "meaning": "cut down (an area of grass) with a machine",
+        "example": "The mower mowed the lawn."
     },
     {
-        "Base": "mow",
-        "Past-simple": "mowed",
-        "Past-Participle": "mown/mowed"
+        "base": "must",
+        "pastSimple": "had to",
+        "pastParticiple": "…",
+        "meaning": "be obliged to; should (expressing necessity)",
+        "example": "You must try some of this fish."
     },
     {
-        "Base": "must",
-        "Past-simple": "had to",
-        "Past-Participle": "…"
+        "base": "overtake",
+        "pastSimple": "overtook",
+        "pastParticiple": "overtaken",
+        "meaning": "catch up with and pass while traveling in the same direction",
+        "example": "My driver then tries to overtake the truck at the same time."
     },
     {
-        "Base": "overtake",
-        "Past-simple": "overtook",
-        "Past-Participle": "overtaken"
+        "base": "pay",
+        "pastSimple": "paid",
+        "pastParticiple": "paid",
+        "meaning": "give (someone) money that is due for work done, goods received, or a debt incurred",
+        "example": "I paid the bill."
     },
     {
-        "Base": "pay",
-        "Past-simple": "paid",
-        "Past-Participle": "paid"
+        "base": "put",
+        "pastSimple": "put",
+        "pastParticiple": "put",
+        "meaning": "move to or place in a particular position",
+        "example": "The book was put on the table."
     },
     {
-        "Base": "put",
-        "Past-simple": "put",
-        "Past-Participle": "put"
+        "base": "read",
+        "pastSimple": "read",
+        "pastParticiple": "read",
+        "meaning": "look at and comprehend the meaning by mentally interpreting the characters",
+        "example": "I read the book."
     },
     {
-        "Base": "read",
-        "Past-simple": "read",
-        "Past-Participle": "read"
+        "base": "ride",
+        "pastSimple": "rode",
+        "pastParticiple": "ridden",
+        "meaning": "ride on a vehicle",
+        "example": "The horse was ridden by the rider."
     },
     {
-        "Base": "ride",
-        "Past-simple": "rode",
-        "Past-Participle": "ridden"
+        "base": "ring",
+        "pastSimple": "rang",
+        "pastParticiple": "rung",
+        "meaning": "make a sound by ringing the fingers of the hand",
+        "example": "The bell rang."
     },
     {
-        "Base": "ring",
-        "Past-simple": "rang",
-        "Past-Participle": "rung"
+        "base": "rise",
+        "pastSimple": "rose",
+        "pastParticiple": "risen",
+        "meaning": "move from a lower position to a higher one",
+        "example": "The sun rose in the sky."
     },
     {
-        "Base": "rise",
-        "Past-simple": "rose",
-        "Past-Participle": "risen"
+        "base": "run",
+        "pastSimple": "ran",
+        "pastParticiple": "run",
+        "meaning": " move at a speed faster than a walk",
+        "example": "The runner ran fast."
     },
     {
-        "Base": "run",
-        "Past-simple": "ran",
-        "Past-Participle": "run"
+        "base": "saw",
+        "pastSimple": "sawed",
+        "pastParticiple": "sawn/sawed",
+        "meaning": "cut down trees or other trees",
+        "example": "The saw the tree."
     },
     {
-        "Base": "saw",
-        "Past-simple": "sawed",
-        "Past-Participle": "sawn/sawed"
+        "base": "say",
+        "pastSimple": "said",
+        "pastParticiple": "said",
+        "meaning": "utter words so as to convey information",
+        "example": "I don't want to say too much."
     },
     {
-        "Base": "say",
-        "Past-simple": "said",
-        "Past-Participle": "said"
+        "base": "see",
+        "pastSimple": "saw",
+        "pastParticiple": "seen",
+        "meaning": "perceive with the eyes",
+        "example": "You and I see things differently."
     },
     {
-        "Base": "see",
-        "Past-simple": "saw",
-        "Past-Participle": "seen"
+        "base": "sell",
+        "pastSimple": "sold",
+        "pastParticiple": "sold",
+        "meaning": "give or hand over (something) in exchange for money",
+        "example": "I sold the car."
     },
     {
-        "Base": "sell",
-        "Past-simple": "sold",
-        "Past-Participle": "sold"
+        "base": "send",
+        "pastSimple": "sent",
+        "pastParticiple": "sent",
+        "meaning": "cause to go or be taken to a particular destination; arrange for the delivery of, especially by mail",
+        "example": "The postman sent the letter."
     },
     {
-        "Base": "send",
-        "Past-simple": "sent",
-        "Past-Participle": "sent"
+        "base": "set",
+        "pastSimple": "set",
+        "pastParticiple": "set",
+        "meaning": "put or bring into a specified state, place or position",
+        "example": "Dana set the mug of tea down."
     },
     {
-        "Base": "set",
-        "Past-simple": "set",
-        "Past-Participle": "set"
+        "base": "sew",
+        "pastSimple": "sewed",
+        "pastParticiple": "sewn/sewed",
+        "meaning": "join, fasten, or repair by making stitches with a needle and thread or a sewing machine",
+        "example": "The pockets and vents are often sewn closed on new men’s suits to help the garment keep its shape while in the store."
     },
     {
-        "Base": "sew",
-        "Past-simple": "sewed",
-        "Past-Participle": "sewn/sewed"
+        "base": "shake",
+        "pastSimple": "shook",
+        "pastParticiple": "shaken",
+        "meaning": " move up and down or from side to side",
+        "example": "The ground started to shake and the alarm rang."
     },
     {
-        "Base": "shake",
-        "Past-simple": "shook",
-        "Past-Participle": "shaken"
+        "base": "shall",
+        "pastSimple": "should",
+        "pastParticiple": "…",
+        "meaning": "expressing the future tense",
+        "example": "I shall come to the party."
     },
     {
-        "Base": "shall",
-        "Past-simple": "should",
-        "Past-Participle": "…"
+        "base": "shed",
+        "pastSimple": "shed",
+        "pastParticiple": "shed",
+        "meaning": "allow (leaves or fruit) to fall to the ground",
+        "example": "The tree shed its leaves."
     },
     {
-        "Base": "shed",
-        "Past-simple": "shed",
-        "Past-Participle": "shed"
+        "base": "shine",
+        "pastSimple": "shone",
+        "pastParticiple": "shone",
+        "meaning": "give out a bright light",
+        "example": "The sun shone through the window."
     },
     {
-        "Base": "shine",
-        "Past-simple": "shone",
-        "Past-Participle": "shone"
+        "base": "shoot",
+        "pastSimple": "shot",
+        "pastParticiple": "shot",
+        "meaning": "to fire a bullet or an arrow",
+        "example": "The gun was shot."
     },
     {
-        "Base": "shoot",
-        "Past-simple": "shot",
-        "Past-Participle": "shot"
+        "base": "show",
+        "pastSimple": "showed",
+        "pastParticiple": "shown",
+        "meaning": " be or allow or cause to be visible",
+        "example": "Would you show me your photos?"
     },
     {
-        "Base": "show",
-        "Past-simple": "showed",
-        "Past-Participle": "shown"
+        "base": "shrink",
+        "pastSimple": "shrank",
+        "pastParticiple": "shrunk",
+        "meaning": "become or make smaller in size or amount",
+        "example": "Some fabrics shrink or change shape when washed."
     },
     {
-        "Base": "shrink",
-        "Past-simple": "shrank",
-        "Past-Participle": "shrunk"
+        "base": "shut",
+        "pastSimple": "shut",
+        "pastParticiple": "shut",
+        "meaning": "stop or close",
+        "example": "The door was shut."
     },
     {
-        "Base": "shut",
-        "Past-simple": "shut",
-        "Past-Participle": "shut"
+        "base": "sing",
+        "pastSimple": "sang",
+        "pastParticiple": "sung",
+        "meaning": "make music by singing",
+        "example": "The singer sang a song."
     },
     {
-        "Base": "sing",
-        "Past-simple": "sang",
-        "Past-Participle": "sung"
+        "base": "sink",
+        "pastSimple": "sank",
+        "pastParticiple": "sunk",
+        "meaning": "become or make sunken",
+        "example": "The boat sank in the ocean."
     },
     {
-        "Base": "sink",
-        "Past-simple": "sank",
-        "Past-Participle": "sunk"
+        "base": "sit",
+        "pastSimple": "sat",
+        "pastParticiple": "sat",
+        "meaning": "to be in a position with the weight of your body on your bottom and the top part of your body up",
+        "example": "Please, sit down and listen to me."
     },
     {
-        "Base": "sit",
-        "Past-simple": "sat",
-        "Past-Participle": "sat"
+        "base": "sleep",
+        "pastSimple": "slept",
+        "pastParticiple": "slept",
+        "meaning": "to rest or be in a state of unconsciousness",
+        "example": "Cats can sleep as much as 16 hours a day."
     },
     {
-        "Base": "sleep",
-        "Past-simple": "slept",
-        "Past-Participle": "slept"
+        "base": "slide",
+        "pastSimple": "slid",
+        "pastParticiple": "slid",
+        "meaning": "move along a smooth surface while maintaining continuous contact with it",
+        "example": "Children were playing snowballs and sliding down the hill."
     },
     {
-        "Base": "slide",
-        "Past-simple": "slid",
-        "Past-Participle": "slid"
+        "base": "smell",
+        "pastSimple": "smelt",
+        "pastParticiple": "smelt",
+        "meaning": "perceive or detect the odor or scent of (something)",
+        "example": "The smell of the flowers smelled good."
     },
     {
-        "Base": "smell",
-        "Past-simple": "smelt",
-        "Past-Participle": "smelt"
+        "base": "sow",
+        "pastSimple": "sowed",
+        "pastParticiple": "sown/sowed",
+        "meaning": " plant seed by scattering it on or in the earth",
+        "example": "The farmer sowed the seeds."
     },
     {
-        "Base": "sow",
-        "Past-simple": "sowed",
-        "Past-Participle": "sown/sowed"
+        "base": "speak",
+        "pastSimple": "spoke",
+        "pastParticiple": "spoken",
+        "meaning": "utter words",
+        "example": "The speaker spoke to me."
     },
     {
-        "Base": "speak",
-        "Past-simple": "spoke",
-        "Past-Participle": "spoken"
+        "base": "spell",
+        "pastSimple": "spelt/spelled",
+        "pastParticiple": "spelt/spelled",
+        "meaning": "write or write out (a word or phrase) by using the letters of the alphabet",
+        "example": "The teacher spelled out the words."
     },
     {
-        "Base": "spell",
-        "Past-simple": "spelt/spelled",
-        "Past-Participle": "spelt/spelled"
+        "base": "spend",
+        "pastSimple": "spent",
+        "pastParticiple": "spent",
+        "meaning": "use up or expend",
+        "example": "The money was spent."
     },
     {
-        "Base": "spend",
-        "Past-simple": "spent",
-        "Past-Participle": "spent"
+        "base": "spill",
+        "pastSimple": "spilt/spilled",
+        "pastParticiple": "spilt/spilled",
+        "meaning": "cause or allow liquid to flow over the edge of its container",
+        "example": "The bottle of water spilled."
     },
     {
-        "Base": "spill",
-        "Past-simple": "spilt/spilled",
-        "Past-Participle": "spilt/spilled"
+        "base": "spit",
+        "pastSimple": "spat",
+        "pastParticiple": "spat",
+        "meaning": "throw or discharge saliva",
+        "example": "The dog spit on the floor."
     },
     {
-        "Base": "spit",
-        "Past-simple": "spat",
-        "Past-Participle": "spat"
+        "base": "spread",
+        "pastSimple": "spread",
+        "pastParticiple": "spread",
+        "meaning": "to make or cause to become open or unclothed",
+        "example": "The book was spread out."
     },
     {
-        "Base": "spread",
-        "Past-simple": "spread",
-        "Past-Participle": "spread"
+        "base": "stand",
+        "pastSimple": "stood",
+        "pastParticiple": "stood",
+        "meaning": "to be in a position or posture",
+        "example": "I will stand here, don’t you mind?"
     },
     {
-        "Base": "stand",
-        "Past-simple": "stood",
-        "Past-Participle": "stood"
+        "base": "steal",
+        "pastSimple": "stole",
+        "pastParticiple": "stolen",
+        "meaning": "take something without permission",
+        "example": "The thief stole the money."
     },
     {
-        "Base": "steal",
-        "Past-simple": "stole",
-        "Past-Participle": "stolen"
+        "base": "stick",
+        "pastSimple": "stuck",
+        "pastParticiple": "stuck",
+        "meaning": "to hold or fasten firmly",
+        "example": "The stick was stuck to the wall."
     },
     {
-        "Base": "stick",
-        "Past-simple": "stuck",
-        "Past-Participle": "stuck"
+        "base": "sting",
+        "pastSimple": "stung",
+        "pastParticiple": "stung",
+        "meaning": "produce a sharp pain",
+        "example": "The snake stung me."
     },
     {
-        "Base": "sting",
-        "Past-simple": "stung",
-        "Past-Participle": "stung"
+        "base": "stink",
+        "pastSimple": "stank",
+        "pastParticiple": "stunk",
+        "meaning": "have a strong odour",
+        "example": "The smell of the flowers stank in my nostrils."
     },
     {
-        "Base": "stink",
-        "Past-simple": "stank",
-        "Past-Participle": "stunk"
+        "base": "strike",
+        "pastSimple": "struck",
+        "pastParticiple": "struck",
+        "meaning": "hit or hit with a blow",
+        "example": "Is it dangerous if lightning strikes a plane?"
     },
     {
-        "Base": "strike",
-        "Past-simple": "struck",
-        "Past-Participle": "struck"
+        "base": "swear",
+        "pastSimple": "swore",
+        "pastParticiple": "sworn",
+        "meaning": "to make a solemn promise",
+        "example": "She made me swear I would never tell anyone."
     },
     {
-        "Base": "swear",
-        "Past-simple": "swore",
-        "Past-Participle": "sworn"
+        "base": "sweep",
+        "pastSimple": "swept",
+        "pastParticiple": "swept",
+        "meaning": "to move or remove something by sweeping it",
+        "example": "The broom swept the floor."
     },
     {
-        "Base": "sweep",
-        "Past-simple": "swept",
-        "Past-Participle": "swept"
+        "base": "swell",
+        "pastSimple": "swelled",
+        "pastParticiple": "swollen/swelled",
+        "meaning": "to become larger in size",
+        "example": "The water swelled up in the pot."
     },
     {
-        "Base": "swell",
-        "Past-simple": "swelled",
-        "Past-Participle": "swollen/swelled"
+        "base": "swim",
+        "pastSimple": "swam",
+        "pastParticiple": "swum",
+        "meaning": "to move through water",
+        "example": "My dad swam like a dolphin when he was young."
     },
     {
-        "Base": "swim",
-        "Past-simple": "swam",
-        "Past-Participle": "swum"
+        "base": "swing",
+        "pastSimple": "swung",
+        "pastParticiple": "swung",
+        "meaning": "move or cause to move back and forth or from side to side",
+        "example": "The swing was so strong that it broke the window."
     },
     {
-        "Base": "swing",
-        "Past-simple": "swung",
-        "Past-Participle": "swung"
+        "base": "take",
+        "pastSimple": "took",
+        "pastParticiple": "taken",
+        "meaning": "to receive or acquire",
+        "example": "Did you take my umbrella?"
     },
     {
-        "Base": "take",
-        "Past-simple": "took",
-        "Past-Participle": "taken"
+        "base": "teach",
+        "pastSimple": "taught",
+        "pastParticiple": "taught",
+        "meaning": "show or explain to (someone) how to do something",
+        "example": "The teacher taught me how to play the piano."
     },
     {
-        "Base": "teach",
-        "Past-simple": "taught",
-        "Past-Participle": "taught"
+        "base": "tear",
+        "pastSimple": "tore",
+        "pastParticiple": "torn",
+        "meaning": "pull or rip (something) apart or to pieces",
+        "example": "The tears tore the paper."
     },
     {
-        "Base": "tear",
-        "Past-simple": "tore",
-        "Past-Participle": "torn"
+        "base": "tell",
+        "pastSimple": "told",
+        "pastParticiple": "told",
+        "meaning": "to give information to someone",
+        "example": "The teacher told me the answer."
     },
     {
-        "Base": "tell",
-        "Past-simple": "told",
-        "Past-Participle": "told"
+        "base": "think",
+        "pastSimple": "thought",
+        "pastParticiple": "thought",
+        "meaning": "to have a feeling about something",
+        "example": "I think I will go to the cinema."
     },
     {
-        "Base": "think",
-        "Past-simple": "thought",
-        "Past-Participle": "thought"
+        "base": "throw",
+        "pastSimple": "threw",
+        "pastParticiple": "thrown",
+        "meaning": "to send or set (something) in motion",
+        "example": "The ball was thrown."
     },
     {
-        "Base": "throw",
-        "Past-simple": "threw",
-        "Past-Participle": "thrown"
+        "base": "understand",
+        "pastSimple": "understood",
+        "pastParticiple": "understood",
+        "meaning": "to be able to understand",
+        "example": "I understood the meaning of the word."
     },
     {
-        "Base": "understand",
-        "Past-simple": "understood",
-        "Past-Participle": "understood"
+        "base": "wake",
+        "pastSimple": "woke",
+        "pastParticiple": "woken",
+        "meaning": "stop sleeping",
+        "example": "The cat woke up."
     },
     {
-        "Base": "wake",
-        "Past-simple": "woke",
-        "Past-Participle": "woken"
+        "base": "wear",
+        "pastSimple": "wore",
+        "pastParticiple": "worn",
+        "meaning": "to have clothing on the body",
+        "example": "The coat was on my shoulders."
     },
     {
-        "Base": "wear",
-        "Past-simple": "wore",
-        "Past-Participle": "worn"
+        "base": "weep",
+        "pastSimple": "wept",
+        "pastParticiple": "wept",
+        "meaning": "cry",
+        "example": "She began to weep, tears fell down her face."
     },
     {
-        "Base": "weep",
-        "Past-simple": "wept",
-        "Past-Participle": "wept"
+        "base": "will",
+        "pastSimple": "would",
+        "pastParticiple": "…",
+        "meaning": "to intend to do something",
+        "example": "I will go to the cinema."
     },
     {
-        "Base": "will",
-        "Past-simple": "would",
-        "Past-Participle": "…"
+        "base": "win",
+        "pastSimple": "won",
+        "pastParticiple": "won",
+        "meaning": "to achieve or succeed in something",
+        "example": "The game won by a score of 11-0."
     },
     {
-        "Base": "win",
-        "Past-simple": "won",
-        "Past-Participle": "won"
+        "base": "wind",
+        "pastSimple": "wound",
+        "pastParticiple": "wound",
+        "meaning": "to blow or blow away",
+        "example": "The wind blew the leaves."
     },
     {
-        "Base": "wind",
-        "Past-simple": "wound",
-        "Past-Participle": "wound"
-    },
-    {
-        "Base": "write",
-        "Past-simple": "wrote",
-        "Past-Participle": "written"
+        "base": "write",
+        "pastSimple": "wrote",
+        "pastParticiple": "written",
+        "meaning": "to write something down",
+        "example": "The writer wrote the letter."
     }
 ]
