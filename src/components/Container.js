@@ -15,7 +15,7 @@ function Container({ children }) {
 
                     <nav className={`verbs__nav ${active ? "verbs__nav_active" : ""}`} id="irregular-verbs-list">
                         <Search word={word} setWord={setWord} />
-                        <VerbList word={word} />
+                        <VerbList word={word} setActive={setActive} />
                     </nav>
                     {children}
                 </div>
